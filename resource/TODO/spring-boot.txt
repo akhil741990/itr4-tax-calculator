@@ -1,0 +1,5 @@
+1) Added bean.xml
+
+2) Remove the calculator instantiation in Controller 
+
+3) Add bean for calculator and Auto wire it in calculator 
